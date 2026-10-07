@@ -1,0 +1,8 @@
+id,source_twi,candidate_english,meaning_preservation,grammar,naturalness,register,completeness,overall_score,error_category,evaluation_notes
+1,"Mepɛ sɛ mehu nneɛma yi bo.","I want to know the price of these items.",5,5,5,5,5,5,"None","The candidate preserves the original meaning and sounds natural in English."
+2,"Mepɛ sɛ metɔ bi.","I want to buy one.",5,5,5,5,5,5,"None","The purchase intention is preserved accurately."
+3,"Ɛda bɛn na mobɛfa de no aba?","What day will you bring it?",5,5,5,5,5,5,"None","The question about the delivery day is preserved."
+4,"M’ani agye paa wɔ adwuma no ho.","I am very happy with the work.",5,5,5,5,5,5,"None","The positive sentiment and meaning are preserved."
+5,"M’ani nnye adwuma a moayɛ no ho.","I am not happy with the work you have done.",5,5,5,5,5,5,"None","The negative sentiment and reference to completed work are preserved."
+6,"Nneɛma no nnya mmae.","The items have not arrived yet.",5,5,5,5,5,5,"None","The message clearly communicates that the items have not arrived."
+7,"Mepɛ sɛ mekansɛl me order no.","I want to cancel my order.",5,5,5,5,
